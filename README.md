@@ -11,7 +11,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=150&section=header&text=%20render&fontSize=90)
 -->
+
 
 ## 🌱 양석진 _Harvartz_
 
