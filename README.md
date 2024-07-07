@@ -30,8 +30,6 @@ Here are some ideas to get you started:
 #### 🎨 Tools
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=IntelliJIDEA&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white"/> <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=Confluence&logoColor=white"/>
 
-<br/>
-
 ## ✨ Experiences
 * Dept. of Computer Science and Engineering, CBNU `~2021.02`
 * 교내 학술 동아리 CGAC(Contributing Group As Code) `2020.12 ~ 2021.12`
