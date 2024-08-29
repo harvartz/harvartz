@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 * KOSA MSA FullStack Developer Education `2023.03 ~ 2023.10`
 <!-- * LG U+ URECA 1st - Web Backend `2024.06 ~ now` -->
 
-<br/>
+<br/> 
 
 ![Harvartz GitHub stats](https://github-readme-stats.vercel.app/api?username=harvartz&show_icons=true&theme=transparent)
 ![Harvartz Solved.ac profile](http://mazandi.herokuapp.com/api?handle=tjrwls08088&theme=dark)
