@@ -37,11 +37,12 @@ Here are some ideas to get you started:
 * Neordinary Rising Camp 7th - Web Backend `2022.04 ~ 2022.07`
 * Neordinary Rising Camp 10th - Mentor - `2022.09 ~ 2022.11`
 * KOSA MSA FullStack Developer Education `2023.03 ~ 2023.10`
-<!-- * LG U+ URECA 1st - Web Backend `2024.06 ~ now` -->
+* LG U+ URECA 1st - Web Backend `2024.06 ~ 2024.12`
 
 <br/> 
 
 ![Harvartz GitHub stats](https://github-readme-stats.vercel.app/api?username=harvartz&show_icons=true&theme=transparent)
 <!--![Harvartz Solved.ac profile](http://mazandi.herokuapp.com/api?handle=tjrwls08088&theme=dark)
 -->
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fharvartz&count_bg=%233D73C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
